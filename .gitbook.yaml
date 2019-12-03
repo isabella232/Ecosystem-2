@@ -1,4 +1,4 @@
-root: ./GenesisDAO/
+root: ./OnboardingGuide/
 
 structure:
     readme: README.md  
