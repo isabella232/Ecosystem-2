@@ -1,8 +1,6 @@
 # FAQ
 
-{% embed url="https://daostack.zendesk.com/hc/en-us/sections/360000537557-FAQs" %}
-
-
+{% embed url="https://daostack.zendesk.com/hc/en-us/sections/360000537557-FAQs" caption="" %}
 
 * [How can I check my Reputation in a DAO?](https://daostack.zendesk.com/hc/en-us/articles/360002552157-How-can-I-check-my-Reputation-in-a-DAO-)
 * [How can I start my own DAO?](https://daostack.zendesk.com/hc/en-us/articles/360002552718-How-can-I-start-my-own-DAO-)

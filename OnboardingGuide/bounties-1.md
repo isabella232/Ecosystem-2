@@ -6,5 +6,3 @@ description: Stay tuned!
 
 ## \*\*\*\***Bounty network integration coming soon!\*\*\*\***
 
-
-
