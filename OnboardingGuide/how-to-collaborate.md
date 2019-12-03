@@ -1,4 +1,11 @@
-# Collaborate on On boarding Docs
+---
+description: >-
+  This guide will be better if co-created! Github can be tricky for non tech
+  individuals, please don't feel intimidated and request support for the changes
+  you want to make if needed.
+---
+
+# Collaborate on Onboarding Docs
 
 * Log into Github, in the right top corner you will see the fork buttom. Create a fork of [DAOstack repo](https://github.com/daostack/Ecosystem)
 * Click in the GenesisDAO folder in your fork and choose the page you want to edit.
