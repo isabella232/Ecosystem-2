@@ -26,6 +26,6 @@
 * [Resources](resources.md)
 * [Ecosystem](events-daofest.md)
 * [FAQ](faq.md)
-* [DAOstack team](daostack-team.md)
 * [Collaborate on Onboarding Docs](how-to-collaborate.md)
+* [DAOstack team](daostack-team.md)
 

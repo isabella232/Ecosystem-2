@@ -8,7 +8,7 @@ description: >-
 
 **DAOstack is an open source project advancing the technology and adoption of decentralized governance.**
 
-_\*\*_[DAOstack in Fairly Simple Terms](https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-1956e26b374) is a comprehensive and accessible article. Jump on this journey to learn most of the concepts we work with, from what is a DAO to the layers of the stack and the Holographic Consensus protocol.
+[DAOstack in Fairly Simple Terms](https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-1956e26b374) is a comprehensive and accessible article. Jump on this journey to learn most of the concepts we work with, from what is a DAO to the layers of the stack and the Holographic Consensus protocol.
 
 [The Need](https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-1956e26b374#99f5)  
 [The Approach](https://medium.com/daostack/an-explanation-of-daostack-in-fairly-simple-terms-1956e26b374#c49e)  
