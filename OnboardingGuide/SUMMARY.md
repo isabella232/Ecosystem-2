@@ -24,7 +24,6 @@
 * [I Am A Developer](i-am-a-developer.md)
 * [I Want To Create A DAO](i-want-to-create-a-dao.md)
 * [Resources](resources.md)
-* [Ecosystem](events-daofest.md)
 * [FAQ](faq.md)
 * [Collaborate on Onboarding Docs](how-to-collaborate.md)
 * [DAOstack team](daostack-team.md)
