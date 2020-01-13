@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Start Here](README.md)
-* [Untitled](untitled.md)
 * [Introduction to Genesis](introduction-to-genesis.md)
 * [Genesis DAO Mission](genesis-dao-principles-and-mission/README.md)
   * [Principles](genesis-dao-principles-and-mission/principles.md)
