@@ -7,9 +7,7 @@ description: >-
 
 # Genesis DAO Mission
 
-The purpose of the Genesis DAO is to build the foundations for a world where people can freely collaborate and organize.
+## Genesis DAO Mission
 
-**Together we pursue this purpose by expanding the GEN ecosystem.**
-
-
+Our mission is t**o expand the DAO ecosystem through the adoption of DAOstack software and the increasing utility of the GEN token**
 

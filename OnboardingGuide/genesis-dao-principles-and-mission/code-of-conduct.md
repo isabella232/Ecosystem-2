@@ -1,10 +1,8 @@
----
-description: 'Genesis DAO wide agreements, passed on Alchemy.'
----
-
 # Code Of Conduct
 
-### Mutual Respect and Responsibility / No Sheep - No Shepherds.
+### Genesis DAO wide agreements, passed on Alchemy. <a id="h.p_kpL8c259v_iG"></a>
+
+## Mutual Respect and Responsibility / No Sheep - No Shepherds. <a id="h.p_8xxu3EIDwCuh"></a>
 
 Care less to what you take and much more to what you give.
 
@@ -20,11 +18,11 @@ Care less to what you take and much more to what you give.
 
 [&gt;&gt; See original proposal](https://docs.google.com/document/d/1Ko6jNXh2YcxcUmYL_36ewoLox3uc9oqDL-v6oeZIfis/edit), passed on Oct 23rd 2018 on Genesis Alpha.
 
-### DAOstack specific agreements
+### DAOstack specific agreements <a id="h.p_1sAIQgriu1Uh"></a>
 
 The following is a code of conduct adopted by DAOstack which is **valid on all DAOstack initiated** and run communications channels. Does **not apply** to activity on Alchemy, reputation, or communications in any groups and channels that are started by people other than DAOstack.
 
-### DAOSTACK COMMUNICATIONS CHANNELS CODE OF CONDUCT \(CoC\)
+## DAOSTACK COMMUNICATIONS CHANNELS CODE OF CONDUCT \(CoC\) <a id="h.p_VPpcme6wvsiH"></a>
 
 ![](../.gitbook/assets/screen-shot-2019-11-03-at-12.49.50-am%20%282%29.png)
 
